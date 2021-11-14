@@ -6,4 +6,4 @@
 //
 
 #include "lab6_1.hpp"
-//update 
+//update some program
